@@ -1,4 +1,4 @@
-# backend-technical-test
+# backend-django
 
 Construire une API RESTful pour une application de gestion de lieux touristiques. L'API doit permettre de créer, lire, mettre à jour et supprimer des lieux, ainsi que de rechercher des lieux à proximité d'une position géographique donnée. L'application doit utiliser Django, Django REST Framework (DRF) et GeoDjango pour les fonctionnalités géospatiales.
 
